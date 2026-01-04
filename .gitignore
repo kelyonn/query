@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.py[cod]
+venv/
+
+# Environment Variables
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Docker Persistence
+data/
